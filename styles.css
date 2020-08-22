@@ -2,12 +2,41 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 
+
+
+
 body {
   background-color: white;
   font-family: 'Roboto', serif;
   padding: 45px;
 
 }
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+
+  }
+
+li {
+  float: left;
+  
+}
+
+li a {
+  display: block;
+  padding-right: 40px;
+  padding-top: 6px;
+  text-decoration: none;
+  color: #161e25;
+  font-size: 14px;
+  font-family: 'Lato', sans-serif;
+}
+
+
 h1 {
   color: black;
   font-family: 'Lato', sans-serif;
@@ -31,7 +60,7 @@ p {
 }
 
 img {
-	padding-right: 110px;
+	padding-right: 40px;
 }
 
 footer {
@@ -69,6 +98,7 @@ footer {
     color: #161e25;
     text-decoration: none;
     float: right;
+    padding-top: 6px;
 }
 
 .logo{
