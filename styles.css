@@ -5,7 +5,7 @@
 body {
   background-color: white;
   font-family: 'Roboto', serif;
-  padding: 39px;
+  padding: 45px;
 }
 h1 {
   color: black;
@@ -16,7 +16,7 @@ h1 {
 h2 {
 	color: black;
 	font-family: 'Lato', sans-serif;
-	font-size: 120%;
+	font-size: 140%;
 }
 
 p {
