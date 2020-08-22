@@ -37,3 +37,27 @@ footer {
   padding-top: 100px;
   padding-bottom: 20px;
 }
+
+
+.connect-link{
+  display: inline-block;
+  color: #534dd5;
+  text-decoration: none;
+  float: right;
+}
+
+.connect-year{
+  float: left;
+}
+
+
+.connect-link-a{
+  display: inline-block;
+  color: #534dd5;
+  text-decoration: none;
+  float: left;
+}
+
+}
+
+
