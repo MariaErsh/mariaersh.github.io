@@ -29,11 +29,12 @@ li {
 li a {
   display: block;
   padding-right: 40px;
-  padding-top: 6px;
+  padding-top: 0px;
   text-decoration: none;
   color: #161e25;
   font-size: 14px;
   font-family: 'Lato', sans-serif;
+  float: left;
 }
 
 
